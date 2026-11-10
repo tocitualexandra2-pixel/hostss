@@ -26,3 +26,5 @@ while read -r ip host extra; do
         check_ip_dns "$host" "$ip" "$DNS_SERVER"
     fi 
 done < /etc/hosts
+#ceaw.baMBOLINA
+echo "salut sunt ale"
